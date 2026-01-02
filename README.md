@@ -30,4 +30,4 @@ See the map in:
 This is a single-date snapshot. Tidal and seasonal effects may influence water extent.
 
 ## Map
-![Venice water mask](maps/venice_water_mask_2025.png)
+![Venice water mask](venice-water-coverage-2025/maps/venice_water_mask_2025.png)
